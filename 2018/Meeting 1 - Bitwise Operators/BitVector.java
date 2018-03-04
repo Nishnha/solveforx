@@ -2,8 +2,6 @@
  * CS 2110 Spring 2018 HW2
  * Part 1 - Coding a bit vector
  *
- * @author Priya Mehta
- *
  * Global rules for this file:
  * - You may not use multiplication, division or modulus in any method.
  * - You may not use more than 2 conditionals per method, and you may only use

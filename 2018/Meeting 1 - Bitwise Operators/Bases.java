@@ -2,8 +2,6 @@
  * CS 2110 Spring 2018 HW2
  * Part 2 - Coding with bases
  *
- * @author Priya Mehta
- *
  * Global rules for this file:
  * - You may not use more than 2 conditionals per method. Conditionals are
  *   if-statements, if-else statements, or ternary expressions. The else block

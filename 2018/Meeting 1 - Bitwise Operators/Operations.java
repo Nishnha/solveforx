@@ -2,8 +2,6 @@
  * CS 2110 Spring 2018 HW2
  * Part 3 - Coding with bitwise operators
  *
- * @author Priya Mehta
- *
  * Global rules for this file:
  * - All of these functions must be completed in ONE line. That means they should be
  *   of the form "return [...];", with a single semicolon. No partial credit will be
